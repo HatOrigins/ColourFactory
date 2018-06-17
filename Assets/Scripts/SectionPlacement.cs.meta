@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5ab780826e9e1214aaf930fdc9c2d306
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startSection: {fileID: 1048553467826740, guid: b8e5700af800bc54daa28b16d529ae66,
+      type: 2}
+  - endSection: {fileID: 1639199215579480, guid: 1e51a401b2c8b524ebf320095d60c611,
+      type: 2}
+  - gridSectiopn: {fileID: 1320331514278202, guid: e798ea0252e63b04db6ca4e3cb0982c3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
